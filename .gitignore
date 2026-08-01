@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+model_zoo/*.pth
+results/
+.DS_Store
